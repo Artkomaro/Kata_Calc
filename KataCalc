@@ -126,3 +126,4 @@ public class Main {
             throw new IllegalArgumentException("");
         }
     }
+}
